@@ -10,6 +10,12 @@ Employee attrition is a growing challenge for organizations, yet HR teams often 
 This project delivers an **interactive Power BI dashboard** supported by **documented insights and actionable recommendations** to help HR leadership make data-driven retention decisions.
 
 ---
+##  Files in This Repository
+- Open the **HR Attrition Dashboard (.pbix)** file to explore interactive insights
+- Review **Page 2** for summarized insights, problems, and actions
+- Refer to the **Attrition Repprt (.pdf)** for detailed analysis and recommendations
+
+---
 
 ## Key KPIs Used
 - Total Employees  
@@ -37,11 +43,11 @@ This page provides a high-level and detailed analytical view of attrition using:
 
 ---
 
-### Page 2: Insights, Problems & Actions (Sample Summary)
+### Page 2: Insights, Problems & Actions (Summary)
 This page contains:
-- Key business insights
+- business insights
 - Identified attrition problems
-- High-level recommended HR actions
+- recommended HR actions
 
 
 ---
